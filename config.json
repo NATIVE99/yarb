@@ -53,7 +53,7 @@
             "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         },
         "dingtalk": {
-            "enabled": false,
+            "enabled": true,
             "secrets": "DINGTALK_KEY",
             "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         },
@@ -71,7 +71,7 @@
             "key": "xxxxxxxxxx"
         },
         "mail": {
-            "enabled": true,
+            "enabled": false,
             "secrets": "MAIL_KEY",
             "secrets_receiver": "MAIL_RECEIVER",
             "address": "firmianay@163.com",
