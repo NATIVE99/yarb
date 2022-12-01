@@ -230,3 +230,4 @@
   - [【CEATI联盟动态】欢迎7家新成员单位加入](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247504599&idx=1&sn=3573b9455298e29ba8f13d85ab104141&chksm=ea6625a0dd11acb66a9805578b742e877718dea42daab1bd31915ba999a644de3c58f5fc8721&scene=58&subscene=0#rd)
 - 360数字安全
   - [唯一数字安全案例！360携手三峡集团入选2022中国“数字样板”工程](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247549535&idx=1&sn=2b83e6f2fbb60a3bfecbb8c4128ffa30&chksm=9f8c9257a8fb1b41e6e77b6eb6fcb68ba007a40e36d4b1d1b30d67e0ad941708553bfb662fdd&scene=58&subscene=0#rd)
+  - asdasd
