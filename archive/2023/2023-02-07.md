@@ -1,22 +1,13 @@
 # 每日安全资讯（2023-02-07）
 
+- 腾讯玄武实验室
+  - [每日安全动态推送(2-6)](https://mp.weixin.qq.com/s/FAvWlRjusMbk5yBiwUufRg)
 - SecWiki News
   - [SecWiki News 2023-02-06 Review](http://www.sec-wiki.com/?2023-02-06)
 - FreeBuf网络安全行业门户
   - [FreeBuf早报 | 16 岁黑客声称破解了任天堂 NX；百慕大关基设施突发“严重事故”](https://www.freebuf.com/news/356704.html)
   - [资金预算和员工培训，企业网络安全建设绕不过的两道坎](https://www.freebuf.com/news/356676.html)
   - [新型勒索软件正攻击全球VMware ESXi 服务器](https://www.freebuf.com/news/356626.html)
-- 绿盟科技技术博客
-  - [Jira Service Management Server and Data Center身份验证绕过漏洞（CVE-2023-22501）通告](http://blog.nsfocus.net/jira-service-management-server-and-data-centercve-2023-22501/)
-  - [F5 BIG-IP iControl SOAP远程代码执行漏洞（CVE-2023-22374）通告](http://blog.nsfocus.net/f5-big-ip-icontrol-soapcve-2023-22374/)
-  - [QNAP QTS与QuTS hero SQL注入漏洞（CVE-2022-27596）通告](http://blog.nsfocus.net/qnap-qtsquts-hero-sqlcve-2022-27596/)
-  - [绿盟科技威胁周报（2023.01.30-2023.02.05）](http://blog.nsfocus.net/weeklyreport202306/)
-  - [【公益译文】美国联邦政府零信任战略（征求意见稿）](http://blog.nsfocus.net/0trust/)
-  - [联邦学习开源框架FATE-Flow 源码分析](http://blog.nsfocus.net/fate-flow/)
-- 先知安全技术社区
-  - [记一次从jboss到内网渗透实战](https://xz.aliyun.com/t/12120)
-  - [XSS Game通关教程](https://xz.aliyun.com/t/12118)
-  - [记一次春秋云镜域渗透靶场Initial](https://xz.aliyun.com/t/12115)
 - 安全客-有思想的安全新媒体
   - [安全开发唯一星选厂商！悬镜强势入选CCSIP 2022](https://www.anquanke.com/post/id/286041)
   - [CVE-2022-1015 nf_tables 提权漏洞分析](https://www.anquanke.com/post/id/286079)
@@ -31,3 +22,14 @@
   - [《至人无己 · 正复无奇 网络安全服务市场洞察报告》线上发布会即将开幕，欢迎预约观看！](https://www.4hou.com/posts/nJvW)
   - [确认朝鲜黑客与Harmony Horizon攻击有关](https://www.4hou.com/posts/6VPV)
   - [浏览器的自动填充凭据可能会通过跨站脚本 (XSS) 被盗](https://www.4hou.com/posts/l665)
+- 绿盟科技技术博客
+  - [Jira Service Management Server and Data Center身份验证绕过漏洞（CVE-2023-22501）通告](http://blog.nsfocus.net/jira-service-management-server-and-data-centercve-2023-22501/)
+  - [F5 BIG-IP iControl SOAP远程代码执行漏洞（CVE-2023-22374）通告](http://blog.nsfocus.net/f5-big-ip-icontrol-soapcve-2023-22374/)
+  - [QNAP QTS与QuTS hero SQL注入漏洞（CVE-2022-27596）通告](http://blog.nsfocus.net/qnap-qtsquts-hero-sqlcve-2022-27596/)
+  - [绿盟科技威胁周报（2023.01.30-2023.02.05）](http://blog.nsfocus.net/weeklyreport202306/)
+  - [【公益译文】美国联邦政府零信任战略（征求意见稿）](http://blog.nsfocus.net/0trust/)
+  - [联邦学习开源框架FATE-Flow 源码分析](http://blog.nsfocus.net/fate-flow/)
+- 先知安全技术社区
+  - [记一次从jboss到内网渗透实战](https://xz.aliyun.com/t/12120)
+  - [XSS Game通关教程](https://xz.aliyun.com/t/12118)
+  - [记一次春秋云镜域渗透靶场Initial](https://xz.aliyun.com/t/12115)
