@@ -131,6 +131,7 @@ def init_rss(conf: dict, update: bool=False, proxy_url=''):
     """初始化订阅源"""
     rss_list = []
     enabled = [{k: v} for k, v in conf.items() if v['enabled']]
+    print(f'开启的订阅源 {enabled}')
     for rss in enabled:
         if update:
             if rss := update_rss(rss, proxy_url):
