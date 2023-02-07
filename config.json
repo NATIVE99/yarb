@@ -10,7 +10,7 @@
             "filename": "CustomRSS.opml"
         },
         "CyberSecurityRSS": {
-            "enabled": true,
+            "enabled":false,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
             "filename": "CyberSecurityRSS.opml"
         },
@@ -20,7 +20,7 @@
             "filename": "CyberSecurityRSS-tiny.opml"
         },
         "Chinese-Security-RSS": {
-            "enabled": true,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml",
             "filename": "Chinese-Security-RSS.opml"
         },
