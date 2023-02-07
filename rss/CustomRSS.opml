@@ -3,5 +3,6 @@
 <head><title>CustomRSS</title></head>
 <body>
 <outline title="HackerOne Hacker Activity" text="HackerOne Hacker Activity" htmlUrl="https://hackerone.com/hacktivity" xmlUrl="https://rsshub.app/hackerone/hacktivity" type="rss" />
+<outline title="Bleeping Computer" text="Bleeping Computer" htmlUrl="https://www.bleepingcomputer.com/feed/" xmlUrl="https://www.bleepingcomputer.com/feed/" type="rss" />  
 </body>
 </opml>
