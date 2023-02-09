@@ -14,5 +14,6 @@
  <outline text="360 核心安全技术博客" title="360 核心安全技术博客" type="rss" xmlUrl="http://blogs.360.cn/rss.html" htmlUrl="http://blogs.360.cn"/>
  <outline text="知道创宇" title="知道创宇" type="rss" xmlUrl="http://blog.knownsec.com/feed" htmlUrl="http://blog.knownsec.com"/>
  <outline text="先知技术社区" title="先知技术社区" type="rss" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com"/>
+ <outline text="Hack Inn" title="Hack Inn" type="rss" xmlUrl="https://www.hackinn.com/index.php/feed/" htmlUrl="https://www.hackinn.com/"/>
 </body>
 </opml>
