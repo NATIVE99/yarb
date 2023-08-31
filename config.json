@@ -4,13 +4,14 @@
         "rss": false,
         "bot": false
     },
+
     "rss": {
         "CustomRSS": {
             "enabled": true,
             "filename": "CustomRSS.opml"
         },
         "CyberSecurityRSS": {
-            "enabled":false,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
             "filename": "CyberSecurityRSS.opml"
         },
@@ -76,17 +77,19 @@
             "secrets_receiver": "MAIL_RECEIVER",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
-            "from": "security-bot <yangchao@lixiang.com>",
+            "from": "security-bot <firmianay@163.com>",
             "receiver": "a@163.com,b@163.com",
             "key": "xxxxxxxxxx"
-        },
-        "keywords": {
-            "exclude": [
-                "招聘", "招生", "开班", "报名", "双非", "倒计时", "圆满", "抽奖",
-                "好礼", "福利", "领取", "火热", "热烈", "欢迎", "美女",
-                "喜报", "喜讯", "惊喜", "恭喜", "签约", "快乐", "颜值",
-                "新冠", "疫情", "疫苗", "核酸",
-                "月薪", "年薪"
-            ]
+        }
+    },
+
+    "keywords": {
+        "exclude": [
+            "招聘", "招生", "开班", "报名", "双非", "倒计时", "圆满", "抽奖",
+            "好礼", "福利", "领取", "火热", "热烈", "欢迎", "美女",
+            "喜报", "喜讯", "惊喜", "恭喜", "签约", "快乐", "颜值",
+            "新冠", "疫情", "疫苗", "核酸",
+            "月薪", "年薪"
+        ]
     }
 }
