@@ -215,7 +215,7 @@ async def job(args):
     proxy_bot = conf['proxy']['url'] if conf['proxy']['bot'] else ''
     bots = await init_bot(conf['bot'], proxy_bot)
     for bot in bots:
-        await bot.send(bot.parse_results(results))
+        bot.send(bot.parse_results(results))
 
     cleanup()
 
