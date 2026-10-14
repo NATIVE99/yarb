@@ -84,7 +84,8 @@ class wecomBot:
     def send(self, text_list: list):
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
-        limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        # limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        limiter = Limiter(bucket)
 
         for text in text_list:
             limiter.try_acquire('identity')
@@ -125,7 +126,8 @@ class dingtalkBot:
     def send(self, text_list: list):
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
-        limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        # limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        limiter = Limiter(bucket)
 
         for (feed, text) in text_list:
             limiter.try_acquire('identity')
@@ -172,7 +174,8 @@ class qqBot:
     def send(self, text_list: list):
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
-        limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        # limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        limiter = Limiter(bucket)
 
         for text in text_list:
             limiter.try_acquire('identity')
@@ -312,7 +315,8 @@ class telegramBot:
     async def send(self, text_list: list):
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
-        limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        # limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
+        limiter = Limiter(bucket)
 
         for text in text_list:
             limiter.try_acquire('identity')
